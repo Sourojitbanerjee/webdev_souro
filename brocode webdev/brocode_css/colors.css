@@ -1,0 +1,9 @@
+body{
+    background-color: hsl(33, 43%, 46%);
+}
+.odd{
+    color: rgb(204, 11, 11);
+}
+.even{
+    color: darkblue;
+}

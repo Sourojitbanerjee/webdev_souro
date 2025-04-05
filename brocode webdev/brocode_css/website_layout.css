@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: auto;
+    
+    
+}
+header{
+    background-color: aqua;
+    text-align: center;
+    padding: 25px;
+}
+.navbar{
+    background-color: black;
+    height: 50px;
+}
+aside{
+    width: 20%;
+    float: left;
+    padding: auto;
+    
+
+}
+section{
+    width: 40%;
+    float: left;
+    padding: auto;
+}
+article{
+    width: 40%;
+    float: left;
+    padding: auto;
+}
+footer{
+    background-color: aqua;
+    text-align: center;
+    padding: 25px;
+}
